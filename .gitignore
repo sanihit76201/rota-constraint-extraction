@@ -5,3 +5,5 @@ __pycache__/
 answers*.json
 trace*.jsonl
 .venv/
+.venv_test/
+submission.zip
