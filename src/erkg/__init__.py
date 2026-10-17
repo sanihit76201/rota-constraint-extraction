@@ -1,0 +1,1 @@
+"""erkg: weak-model constraint extraction + exact symbolic solving for rota items."""

@@ -1,0 +1,7 @@
+.env
+candidate_package/.env
+__pycache__/
+*.pyc
+answers*.json
+trace*.jsonl
+.venv/
